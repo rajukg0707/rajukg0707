@@ -1,0 +1,14 @@
+1. Linux Fundamentals And Scripting
+2. Knowledge On Various DevOps Tools And Technologies
+   1. Source Code Management - Git, Github, Gitlab 
+   2. Configuration Management - Puppet, Chef, and Ansible
+   3. Continuous Integration - Jenkins and Bamboo
+   4. Continuous Testing - Selenium(Robot Framework), TestComplete, and TestingWhiz
+   5. Continuous Monitoring - Nagios, Zabbix, Splunk,New Relic, Prometheous and Grafana
+   6. Containerization - Docker, Kubernetes, and vagrant
+3. Continuous Integration And Continuous Delivery
+4. Infrastructure As Code
+5. Key concepts of DevOps
+6. Soft skills
+
+Detailed explanation can be found here : https://www.upgrad.com/blog/devops-engineer-skills/ 
