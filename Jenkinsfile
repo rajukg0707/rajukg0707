@@ -1,4 +1,3 @@
-[08:08] Radhika R
 pipeline {
 agent any
 //tools
